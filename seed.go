@@ -6,6 +6,9 @@ import (
 	"time"
 )
 
+/*
+	Generates seed phrase with sentence length equal to length
+*/
 func GenerateSeedPhrase(length int) string {
 	seedPhrase := ""
 	rand.Seed(time.Now().UnixNano())
