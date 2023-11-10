@@ -14,6 +14,12 @@ import (
 
 func main(){
   	seedPhrase := seed.GenerateSeedPhrase(20)
-    fmt.Println(seedPhrase)
+	fmt.Println(seedPhrase)
 }
+```
+### Sample response
+```
+guava coconut rambutan boysenberry cherry guava avocado pineapple
+pomegranate apricot orange date nectarine kiwi banana boysenberry
+grapefruit grapefruit blackberry orange
 ```
