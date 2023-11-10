@@ -1,2 +1,3 @@
 # Golang seed phrase genrator
-Golang seed phrase generator
+
+## Sample usage
