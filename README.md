@@ -3,7 +3,7 @@
 ## Sample usage
 * Run go get github.com/Makinde1034/Golang-seed-phrase.
 * Import github.com/Makinde1034/Golang-seed-phrase in your project.
-* Call the GeneratorSeedPhrase function passing a int representing the number of words in seed phrase
+* Call the GeneratorSeedPhrase function passing an int representing the number of words in seed phrase
 
 ```
 import (
